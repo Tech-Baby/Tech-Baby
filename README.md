@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tech-Baby
-- 👀 I’m interested into web development
-- 🌱 I’m currently learning JavaScript,HTML and CSS
+- 👀 I’m interested in web development
+- 🌱 I’m a fullstack webdeveloper
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me falowoolamide893@gmail.com
 
